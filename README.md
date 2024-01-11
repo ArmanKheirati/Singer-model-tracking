@@ -1,0 +1,1 @@
+A. Kheirati Roonizi, "An Efficient Algorithm for Maneuvering Target Tracking [Tips & Tricks]," in IEEE Signal Processing Magazine, vol. 38, no. 1, pp. 122-130, Jan. 2021, doi: 10.1109/MSP.2020.3029386.
